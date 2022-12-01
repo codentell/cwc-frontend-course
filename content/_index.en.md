@@ -6,12 +6,12 @@ tags = [ ]
 +++
 
 
-## Fullstack Fulltime Online Boot Camp
+## Frontend Online Boot Camp
 ## Welcome Class
 
 <hr>
 
-| **[🏠Home](#data-viz-blended-online-boot-camp)** | **[✅Course Guidelines](#course-guidelines)** | **[🏔Course Content](#course-content)** | **[Weekly Calendar TA Hours + Class Time EST](#weekly-calendar)** | **[📺Video](#video-speed-runs)** | **[🎯Module Challenges Video](#module-challenges-video)** | **[📚Resources](#resources)** | **[Notes](#notes)** |
+| **[🏠Home](#data-viz-blended-online-boot-camp)** | **[✅Course Guidelines](#course-guidelines)** | **[🏔Course Content](#course-content)** |  **[📺Video](#video-speed-runs)** | **[🎯Module Challenges Video](#module-challenges-video)** | **[📚Resources](#resources)** | **[Notes](#notes)** |
 
 # 🍑
 
@@ -21,16 +21,16 @@ tags = [ ]
 
 <hr>
 
-Welcome to your `💻👞 Fullstack Bootcamp` Class Repository.
+Welcome to your `💻👞 Frontend Bootcamp` Class Repository.
 
-This is your one-stop-shop for all things `Fullstack Bootcamp` related.
+This is your one-stop-shop for all things `Frontend Bootcamp` related.
 
-Below your will find a main `Fullstack Course Guidelines` and `Fullstack Course Content` listing.
+Below your will find a main `Frontend Course Guidelines` and `Frontend Course Content` listing.
 
 <hr>
 
 ## ✅ Course Guidelines
-#####  [ ⬆️ Back to Top](#fullstack-fulltime-online-boot-camp)
+#####  [ ⬆️ Back to Top](#frontend-online-boot-camp)
 
 | **Course Syllabus** | **Student Support** | **Getting Started** |
 |:--| :--|:--|
@@ -48,11 +48,6 @@ Below your will find a main `Fullstack Course Guidelines` and `Fullstack Course 
 “The reasonable [person] adapts themself to the world: the unreasonable one persists in trying to adapt the world to themself. Therefore all progress depends on the unreasonable [person].”
 ― George Bernard Shaw, Man and Superman
 {{% /notice %}}
-
-
-## Weekly Calendar📅  
-#### TA Hours + Class Time **EST**
-
 
 
 ## About the Course 
