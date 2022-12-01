@@ -1,5 +1,5 @@
 +++
-title = "03. Hello HTML  👩‍🎓👨‍🎓"
+title = "03. Hello HTML 👩‍🏫🧑‍🏫"
 weight = 3
 tags = ["html"] 
 +++
@@ -24,19 +24,27 @@ tags = ["html"]
 
 ```
 
-# Notes 
+### Notes 📖
 
-## Pros:
+# Why !?
+## Pros of HTML (HyperText Markup Language)
 
-1. `HTML` is easy to learn and understand.
-2. `HTML` is platform-independent, which means that it can be used on any operating system and any device.
-3. `HTML` is compatible with most web browsers.
-4. `HTML` is search engine friendly.
-5. `HTML` is relatively secure, since it does not have access to the server when creating web pages.
 
-## Cons:
+1. `HTML` is easy to use and learn. It is the standard for creating websites and web applications.
 
-1. `HTML` pages are static, so they cannot be used for dynamic content.
-2. `HTML` does not have any database support, so data must be stored elsewhere.
-3. `HTML` is not very flexible, so it can be difficult to change the layout or design of a website.
-4. `HTML` is not very secure, since it is easy to hack into an HTML page.
+2. `HTML` is supported by all major browsers, so it is easy to make your website look the same across all browsers.
+
+3. `HTML` is a text-based language that is relatively easy to understand and edit.
+
+4. `HTML` is free, open-source software that can be used to create basic websites and web applications.
+
+## Cons of HTML:
+
+
+1. `HTML` is not a programming language, so it cannot be used to create complex applications or websites.
+
+2. `HTML` is limited in its ability to create dynamic content, so it is not suitable for complex web applications.
+
+3. `HTML` requires a web server to host the website, which can be expensive.
+
+4. `HTML` can be difficult to maintain and update, so it is important to keep the code organized and up-to-date.

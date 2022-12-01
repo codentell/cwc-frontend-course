@@ -1,3 +1,9 @@
++++
+title = "Challenge Guide 📖"
+weight = 2
+tags = ["html", "css"] 
++++
+
 # Challenge Guide
 
 Each week, your instructors and TAs will provide a demonstration of the challenge in the classroom.

@@ -1,7 +1,7 @@
 ---
 title: HTML, Git, Github
 weight: 1
-pre: "<b>0️⃣1️⃣. </b>"
+pre: "<b>0️1️. </b>"
 ---
 
 # Module 01  HTML, Git, Github

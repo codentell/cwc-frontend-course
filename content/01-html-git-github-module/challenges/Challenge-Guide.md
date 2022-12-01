@@ -1,6 +1,5 @@
 +++
-title = "Challenge Guide "
-chapter = true
+title = "Challenge Guide 📖"
 weight = 1
 tags = ["html", "css"] 
 +++
