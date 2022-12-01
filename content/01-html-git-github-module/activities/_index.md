@@ -22,14 +22,11 @@ Students Turn = 👩‍🎓👨‍🎓
 ## Day 01
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-| 01  | **[Command Line 👩‍🏫🧑‍🏫](./01-day/01-command-line)**   |
-| 02  | **[Command Line 👩‍🎓👨‍🎓](./01-day/02-student-command-line)**               |
-| 03  | **[Git 👩‍🏫🧑‍🏫](./01-day/03-git)**           |
-| 04  | **[Git👩‍🎓👨‍🎓](./01-day/04-student-git)**     |
-| 05  | **[HTML👩‍🏫🧑‍🏫](./01-day/05-html)**                     |
-| 06  | **[HTML👩‍🎓👨‍🎓](./01-day/06-student-html)**         |
-| 07  | **[Attributes👩‍🏫🧑‍🏫](./01-day/07-attributes)**                         |
-| 08  | **[Attributes👩‍🎓👨‍🎓](./01-day/08-student-attributes)** |
+| 01  | **[Command Line 👩‍🎓👨‍🎓](./day-01/01-command-line)**   |
+| 02  | **[Examing wikipedia 👩‍🎓👨‍🎓](./day-01/02-examing-wikipedia)**               |
+| 03  | **[Hello HTML 👩‍🏫🧑‍🏫](./day-01/03-git)**           |
+| 04  | **[First HTML 👩‍🎓👨‍🎓](./day-01/04-first-html)**     |
+| 05  | **[Second HTML 👩‍🎓👨‍🎓](./day-01/05-second-html)**                     |
 
 
 ## Day 02
