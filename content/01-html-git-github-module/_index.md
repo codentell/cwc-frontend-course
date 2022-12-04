@@ -9,17 +9,37 @@ pre: "<b>0️1️. </b>"
 #### All Module 01 Activites  📂 (Please Download Attachment Below 👇) 
 {{%attachments style="green" /%}}
 
+### Video Speed Run  of the Activities 
+**if you get stuck or miss class**
+| Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
+| ------  | ------ | ----------- |---------  | --------- |
+| 01 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
+| 02 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
+| 03 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
+| 04 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
 
-### Video Speed Run if you get stuck 
+
+### Video Speed Run 
+**if you get stuck** 
 ### 📺 Module 01 Challenge Video Walkthrough 🏃‍♀️🏃
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 01  | {{< target-blank "Video 📺" "https://zoom.us/rec/share/FOZjQ8Uhb-fUF6eR4n_ZBDrhvEmE8quED0lJ3xMgy-r8iVtfmpEfC_TuOvQW8WSp.ozvDTCOZr7RQbhw3?startTime=1650865062000" >}}  |  00:31:19 ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/FOZjQ8Uhb-fUF6eR4n_ZBDrhvEmE8quED0lJ3xMgy-r8iVtfmpEfC_TuOvQW8WSp.ozvDTCOZr7RQbhw3?startTime=1650865062000" >}}  |  00:31:19 ⏲️ |
+| 01  | {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
 
 
 ## Overview
 
 In this unit, we will be welcoming our students to their first unit of our Web Development Boot Camp. We'll be walking them through the very basics of HTML/CSS, Git Version Control, and Terminal/Console commands.
+
+### Lesson Plans
+
+* [1.1 - Intro to HTML Lesson Plan](./activities/day-01)
+
+* [1.2 - Git'n Pro with HTML/CSS Lesson Plan](./activities/day-02)
+
+* [1.3 - CSS Layout and Box Model Lesson Plan](./activities/day-03)
+  
+* [1.4 - Code Refactor Challenge Lesson Plan](./activities/day-04)
 
 ## Helpful Links
 

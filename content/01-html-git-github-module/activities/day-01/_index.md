@@ -4,6 +4,8 @@ weight = 1
 tags = ["html", "css", "git"] 
 +++
 
+# 1.1 Lesson Plan - Intro to HTML
+
 ## Overview
 
 In today's lesson, we will be working with the very basics of Terminal/Console and starting the path of HTML.

@@ -12,11 +12,12 @@ For this Challenge and unzip the zip file.
 
 {{%attachments style="green" /%}}
 
-### Video Speed Run if you get stuck 
-### 📺 Module 01 & 02 Challenge Video Walkthrough 🏃‍♀️🏃
+### Video Speed Run 
+**if you get stuck** 
+### 📺 Module 01  Challenge Video Walkthrough 🏃‍♀️🏃
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 01  | {{< target-blank "Video 📺" "https://zoom.us/rec/share/FOZjQ8Uhb-fUF6eR4n_ZBDrhvEmE8quED0lJ3xMgy-r8iVtfmpEfC_TuOvQW8WSp.ozvDTCOZr7RQbhw3?startTime=1650865062000" >}}  |  00:31:19 ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/FOZjQ8Uhb-fUF6eR4n_ZBDrhvEmE8quED0lJ3xMgy-r8iVtfmpEfC_TuOvQW8WSp.ozvDTCOZr7RQbhw3?startTime=1650865062000" >}}  |  00:31:19 ⏲️ |
+| 01  | {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
 
 
 # Objective 🎯

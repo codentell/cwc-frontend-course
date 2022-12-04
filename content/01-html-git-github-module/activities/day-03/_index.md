@@ -4,6 +4,8 @@ weight = 3
 tags = ["html", "css", "git"] 
 +++
 
+# 1.3 Lesson Plan: CSS Layout and the Box Model
+
 ## Overview
 
 Today's lesson will delve further into CSS. Students will be introduced to the box model and learn how to customize layout using the `display` and `position` properties.  Collaborate on a mini-project that reinforces HTML and CSS fundamentals.

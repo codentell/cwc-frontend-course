@@ -4,7 +4,7 @@ weight = 2
 tags = ["html", "css", "git"] 
 +++
 
-
+# 1.2 Lesson Plan - Git'n Pro with HTML/CSS
 
 ## Overview
 
