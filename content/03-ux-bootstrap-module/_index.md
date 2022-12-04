@@ -10,6 +10,7 @@ pre: "<b>0️3. </b>"
 
 ### Video Speed Run  of the Activities 
 **if you get stuck or miss class**
+
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
 | 01 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
@@ -19,6 +20,7 @@ pre: "<b>0️3. </b>"
 
 ### Video Speed Run 
 **if you get stuck**
+
 ### 📺 Module 03 Challenge Video Walkthrough 🏃‍♀️🏃
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |

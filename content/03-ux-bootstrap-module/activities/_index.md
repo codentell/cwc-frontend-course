@@ -55,5 +55,5 @@ Students Turn = 👩‍🎓👨‍🎓
 ## Day 04 
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-| 01  | **[Module 1 Challenge 👩‍🎓👨‍🎓](./day-04/challenge)**   |
+| 01  | **[Module 3 Challenge 👩‍🎓👨‍🎓](./day-04/challenge)**   |
 

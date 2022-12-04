@@ -1,7 +1,7 @@
 +++
 title = "Day 3"
 weight = 3
-tags = ["html", "css", "git"] 
+tags = ["html"] 
 +++
 
 # 1.3 Lesson Plan: CSS Layout and the Box Model
@@ -19,6 +19,16 @@ By the end of class, students will be able to:
 * Determine how an element is positioned in an HTML document using the CSS `position` property.
 
 * Identify the box model and its role in web design and layout.
+
+### Lesson Plans
+
+* [1.1 - Intro to HTML Lesson Plan](./01-intro-html-lesson/1-1-lessonplan.md)
+
+* [1.2 - Git'n Pro with HTML/CSS Lesson Plan](./02-intro-git-css-lesson/1-2-lessonplan.md)
+
+* [1.3 - CSS Layout and Box Model Lesson Plan](./03-css-layout-box-model-lesson/1-3-lessonplan.md)
+  
+* [1.4 - Code Refactor Challenge Lesson Plan](./03-code-refactor-lesson/1-4-lessonplan.md)
 
 ## Slides
 

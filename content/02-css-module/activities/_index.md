@@ -5,7 +5,7 @@ weight = 1
 tags = ["html", "css"] 
 +++
 
-## 📺 HTML, Git, Github Activities Video Speed Runs 🏃‍♀️🏃
+## 📺 CSS Activities Video Speed Runs 🏃‍♀️🏃
 | Day | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
 | 01  | {{< target-blank "Video 📺" "" >}}  |   ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  ⏲️ |
@@ -22,11 +22,9 @@ Students Turn = 👩‍🎓👨‍🎓
 ## Day 01
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-| 01  | **[Command Line 👩‍🎓👨‍🎓](./day-01/01-command-line)**   |
-| 02  | **[Examing wikipedia 👩‍🎓👨‍🎓](./day-01/02-examing-wikipedia)**               |
-| 03  | **[Hello HTML 👩‍🏫🧑‍🏫](./day-01/03-git)**           |
-| 04  | **[First HTML 👩‍🎓👨‍🎓](./day-01/04-first-html)**     |
-| 05  | **[Second HTML 👩‍🎓👨‍🎓](./day-01/05-second-html)**                     |
+| 01  | **[First Flex Layout👩‍🎓👨‍🎓](./day-01/01-first-flex-layout)**   |
+| 02  | **[Align with Flex Items 👩‍🎓👨‍🎓](./day-01/02-align-with-flex-items)**               |
+| 03  | **[CSS Flexbox 👩‍🎓👨‍🎓](./day-01/03-css-flexbox)**           |
 
 
 ## Day 02
@@ -55,5 +53,5 @@ Students Turn = 👩‍🎓👨‍🎓
 ## Day 04 
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-| 01  | **[Module 1 Challenge 👩‍🎓👨‍🎓](./day-04/challenge)**   |
+| 01  | **[Module 2 Challenge 👩‍🎓👨‍🎓](./day-04/challenge)**   |
 

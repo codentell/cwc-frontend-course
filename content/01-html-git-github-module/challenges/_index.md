@@ -14,6 +14,7 @@ For this Challenge and unzip the zip file.
 
 ### Video Speed Run 
 **if you get stuck** 
+
 ### 📺 Module 01  Challenge Video Walkthrough 🏃‍♀️🏃
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |

@@ -1,7 +1,7 @@
 +++
 title = "Day 4"
 weight = 4
-tags = ["html", "css", "git"] 
+tags = ["html", "git"] 
 +++
 
 # 01.4 Lesson Plan: Code Refactor Challenge
