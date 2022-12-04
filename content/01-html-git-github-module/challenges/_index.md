@@ -1,10 +1,16 @@
 +++
-title = "Challenge⭐"
+title = "Module 1 Challenge ⭐"
 weight = 1
 tags = ["html", "css"] 
 +++
 
 # 01 HTML CSS Git: Code Refactor
+
+### Download your starter code for module 1 challenge 
+
+For this Challenge and unzip the zip file.
+
+{{%attachments style="green" /%}}
 
 ### Video Speed Run if you get stuck 
 ### 📺 Module 01 & 02 Challenge Video Walkthrough 🏃‍♀️🏃
@@ -61,7 +67,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](../images/01-html-css-git-challenge-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./images/01-html-css-git-challenge-demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
@@ -69,15 +75,23 @@ The following image shows the web application's appearance and functionality:
 
 Follow these instructions to create your project and deploy it to GitHub Pages:
 
-1. Create a new repository on your GitHub account and clone it to your computer.
+1. Download your starter code 
+for this Challenge and unzip the zip file.
 
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+{{%attachments style="green" /%}}
 
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+2. Create a new repository on your GitHub account and clone it to your computer.
 
-4. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
+3. Add the starter code to the new repo on your computer and work through the Challenge.
 
-5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
+4. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+
+5. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+
+6. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the main branch as your source.
+
+7. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
+
 
 You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
 

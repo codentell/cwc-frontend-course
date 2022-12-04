@@ -15,7 +15,6 @@ pre: "<b>0️1️. </b>"
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
 | 01  | {{< target-blank "Video 📺" "https://zoom.us/rec/share/FOZjQ8Uhb-fUF6eR4n_ZBDrhvEmE8quED0lJ3xMgy-r8iVtfmpEfC_TuOvQW8WSp.ozvDTCOZr7RQbhw3?startTime=1650865062000" >}}  |  00:31:19 ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/FOZjQ8Uhb-fUF6eR4n_ZBDrhvEmE8quED0lJ3xMgy-r8iVtfmpEfC_TuOvQW8WSp.ozvDTCOZr7RQbhw3?startTime=1650865062000" >}}  |  00:31:19 ⏲️ |
-| 02 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/MWd80lmtiFLuNvQ3s_IT1M8T3w-erXAFJwUUYp8KwK6OiQ0b3C0MFKhwra3DTTD2wosd7ORmZ6Kj_68p.nmRLDIoKJnV5F9mB?startTime=1650867874000&_x_zm_rtaid=yr12smkwSPOFjV-iipMw0Q.1650864714070.e9486ecb0d64e3c7a6f6778698a6daef&_x_zm_rhtaid=930" >}}  |  00:55:24  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/MWd80lmtiFLuNvQ3s_IT1M8T3w-erXAFJwUUYp8KwK6OiQ0b3C0MFKhwra3DTTD2wosd7ORmZ6Kj_68p.nmRLDIoKJnV5F9mB?startTime=1650867874000&_x_zm_rtaid=yr12smkwSPOFjV-iipMw0Q.1650864714070.e9486ecb0d64e3c7a6f6778698a6daef&_x_zm_rhtaid=930" >}}  |  00:55:24 ⏲️ |
 
 
 ## Overview
