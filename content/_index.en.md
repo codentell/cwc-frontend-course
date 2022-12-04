@@ -50,13 +50,14 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 {{% /notice %}}
 
 
-## About the Course 
-#####  Course Outline 
+## About the Course Curriculum
+## Course Outline 
 | Unit| Description     | What Students Learn |
 |:----| ------------------- | :--  |
-|  Phase 1: Foundation       |   The Foundation phase covers the fundamental concepts of web development, including front-end technologies, command-line fundamentals, and APIs. |  HTML and CSS, Git, JavaScript Third-party APIs (jQuery, Bootstrap) Server-side APIs, AJAX, and JSON |
-| Phase 2: Technical | In the Technical phase, you'll learn the skills necessary to engineer a complete full-stack web application. This includes working with servers, databases, and other back-end technologies and connecting them to the front end. |  Node.js, Object-oriented programming (OOP), Express.js servers, MySQL Object-relational mapper, or ORM (Sequelize), Model-view-controller (MVC) framework (Handlebars.js), Unit testing, Agile methodology Heroku|             
-| Phase 3: Performance | In the Performance phase, you'll learn how to optimize your web applications for speed and efficiency—as well as prepare yourself for the transition to a career in web development.  | Computer science, MongoDB and NoSQL, Progressive web apps (PWAs), React, MERN, Portfolios |
+|  Section 1: `Front-End Foundation` (Module 1 - 8)       | Build a solid foundation in fundamental concepts of web development HTML, CSS, and JavaScript |  `HTML/CSS/Git` `User experience design` `JavaScript ` `Bootstap` `The DOM` `APIs`  `Jquery`  `JSON` `AJAX` |
+| Project 1 (Module 9 - 10) | Apply your newly acquired skills to build a client-side application using third-party APIs |  `Team collaboration` `Agile development` `Project demonstration` `Storytelling` |             
+| Section: `Front-End Frameworks` (Module 11-14) |Learn the skills necessary to develop a portfolio of deployed web applications showcasing your front-end skills, using front-end libraries and testing frameworks. | `Node.js` `ES6` `Object-oriented programming` `Test-driven devlopment` `React` `Deployment` `Project Portfolio` |
+| Project 2 (Module 15 - 16) | Bring together new technologies and concepts learned in section 2 build and deploy a client-side-single-page application |  `Team collaboration` `Agile development` `Project demonstration` `Storytelling` |   
 
 
 ## 🏔 Course Content
@@ -101,8 +102,17 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 <hr>
 
 
+---
+
+## ✂️📁 Module Challenges Video Links
+##### [ ⬆️ Back to Top](#frontend-online-boot-camp)
+
+| #   | Weeks | Module Challenge   
+|:----| ----- | :--  |
+
+
 ## Module Challenge Links
-##### [ ⬆️ Back to Top](#fullstack-fulltime-online-boot-camp)
+##### [ ⬆️ Back to Top](#frontend-online-boot-camp)
 
 | #   | Section Name        | Module Challenge 1 | Module Challenge 2 |
 |:----| ------------------- | :--  | :--  | 
@@ -122,24 +132,7 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 
 
 
----
 
-## ✂️📁 Module Challenges Video Links
-##### [ ⬆️ Back to Top](#fullstack-fulltime-online-boot-camp)
 
-| #   | Weeks | Module Challenge A   | Module Challenge B
-|:----| ----- | :--  |  :-- |
-|01|[HTML CSS Git  & Advanced Git](/01-html-css-git-advanced-css)|{{< target-blank "Module 01 Challenge Video 📺" "https://zoom.us/rec/share/FOZjQ8Uhb-fUF6eR4n_ZBDrhvEmE8quED0lJ3xMgy-r8iVtfmpEfC_TuOvQW8WSp.ozvDTCOZr7RQbhw3?startTime=1650865062000" >}}  | {{< target-blank "Module 02 Challenge Video 📺" "https://zoom.us/rec/play/MWd80lmtiFLuNvQ3s_IT1M8T3w-erXAFJwUUYp8KwK6OiQ0b3C0MFKhwra3DTTD2wosd7ORmZ6Kj_68p.nmRLDIoKJnV5F9mB?startTime=1650867874000&_x_zm_rtaid=yr12smkwSPOFjV-iipMw0Q.1650864714070.e9486ecb0d64e3c7a6f6778698a6daef&_x_zm_rhtaid=930" >}} | 
-|02|[JavaScript Web API](/02-javascript-web-api)| {{< target-blank "Module 03 Challenge Video 📺" "https://zoom.us/rec/share/hoWbj-psx1rd9exGJGnweIHfFz2qXbJ69YKEikoxX98lCwpyxMVk-s0M7086maLV.uso-y65EajGLbgx_?startTime=1651462954000" >}}  |  Module 04 Challenge Video 📺 |
-|03|[Third Party API & Server Side API](/03-third-party-api-server-side-api)|   {{< target-blank "Module 05 Challenge Video 📺" "https://zoom.us/rec/share/ZG4flsxq8gMQobJpek11r-JIXEDXE07HjTme6iAcvSoRbSCj7_jpHVFw0kL9bN5r.hZbvHKioilTXbJpS?startTime=1652069130000" >}}| Module 06 Challenge Video 📺   |
-|Level 04|[Project 1](/04-project-01)|     |      |
-|05|[Node.js and Object-Oriented Programming (OOP) ](/05-node-oop)| {{< target-blank "Module 09 Challenge Video 📺" "https://zoom.us/rec/share/d44wXaIKSft9ksSgsdJmPzjmIzObhT6eqZ-D8pWXQJRtxR2qKVjINf2xWRnzkeve.z9-aaxe6YnLfIJBo?startTime=1653271329000" >}}  |  Module 10 Challenge Video 📺 |
-|06|[Express & SQL](/06-express-sql)|  {{< target-blank "Module 09 Challenge Video 📺" "https://zoom.us/rec/play/L1cHnDFEmufuccKQppz_4uYKWdGL31cmVXIio3kW-HIjw54vcR7yq7iM5iZR3RT4d27iNX1j8ra62GMc.KqZjJmf6Zi8lPqgS?continueMode=true" >}}  |  Module 12 Challenge Video 📺  ||
-|07|[Object-Relational Mapping (ORM) and Model-View-Controller (MVC)](/07-orm-mvc)| {{< target-blank "Module 13 Challenge Video 📺"  "https://zoom.us/rec/share/2hcoGu88jJDmXH2XvqeL7yIlc7MK4tDlj8ryNfGBeikVn02SuYnMMBia0am1nF8k.ldSmwZWRC5rP1hTV">}} |  Module 14 Challenge Video 📺 |
-|Level 08|[Project 2](/08-project-02)|   |      |
-|09|[Computer Science for JavaScript and NoSQL](/09-cs-nosql)| Module 17 Challenge Video 📺 | {{< target-blank "Module 18 Challenge Video 📺"  "https://zoom.us/rec/play/u1ASslllh6Nd1g1aZtE148HTyL2xwggpGZQGcjV0Tkodqaj3xgNC2RYrEuJ_Ho8b-uR7hOR6WbCZkmhQ.CNKoBLqMYRrY2hIE?continueMode=true">}}|
-|10|[Progressive Web Applications (PWA) and React](/10-pwa-react)| {{< target-blank "Module 19 Challenge Video 📺"  "https://zoom.us/rec/play/8N1lMhhQHLSWYVtN3_khni4BvxuBC_H_MBGlPLLT8yeGYYo_SvofKfaZxTa2vJYpFP-c0PDwkzbvtgj9.hwPNlSWUHqbInZ2u?autoplay=true&startTime=1667171499000">}}  |  {{< target-blank "Module 20 Challenge Video 📺"  "https://zoom.us/rec/play/eo9Mus3kN6wigl6uKqp0rW5E-KNE8yqawEsVIM0JWpSeIF9vJDqPFQ59m6TmeouDaeqBZpeyl0bVv-m7.KvY4mKk_JkfoN43y?continueMode=true">}} |
-|11|[Mern and State ](/11-mern-state)| Module 21 Challenge Video 📺 | Module 22 Challenge Video 📺  |
-|12|[Project 3](/12-project-03)|   |     |
 
 # 🍑
