@@ -30,23 +30,21 @@ Students Turn = 👩‍🎓👨‍🎓
 ## Day 02
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-| 01  | **[Git 👩‍🎓👨‍🎓](./day-02/01-git)**   |        
-| 02  | **[HTML 👩‍🎓👨‍🎓 ](./day-02/02-html)**  |
-| 03  | **[Basic CSS 👩‍🏫🧑‍🏫](./day-02/03-basic-css)**  |
-| 04  | **[HTML CSS Layout 👩‍🎓👨‍🎓](./day-02/04-html-css-layout)**  |
+| 01  | **[CSS Grid Part 1👩‍🎓👨‍🎓](./day-02/01-git)**   |        
+| 02  | **[CSS Grid Part 2 👩‍🎓👨‍🎓 ](./day-02/02-html)**  |
+| 03  | **[CSS Grid Part 3 👩‍🎓👨‍🎓](./day-02/03-basic-css)**  |
                   
 
 ## Day 03
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-| 01  | **[Relative Paths 👩‍🎓👨‍🎓](./day-03/01-relative-paths)**   |
-| 02  | **[HTML Display 👩‍🏫🧑‍🏫](./day-03/02-html-display)**   |
-| 03  | **[HTML Display👩‍🎓👨‍🎓](./day-03/02-html-display)**               |
-| 04  | **[CSS Box Model👩‍🏫🧑‍🏫](./day-03/04-css-box-model)**           |
-| 05  | **[CSS Box Model👩‍🎓👨‍🎓](./day-03/05-css-box-model)**     |
-| 06  | **[CSS Positioning 👩‍🏫🧑‍🏫](./day-03/06-css-positioning)**                     |
-| 07  | **[CSS Positioning👩‍🎓👨‍🎓](./day-03/07-css-positioning)**         |
-| 08  | **[Project Landing Page👩‍🎓👨‍🎓](./day-03/08-project-landing-page)**                         |
+| 01  | **[Wireframing  👩‍🏫🧑‍🏫](./day-03/01-relative-paths)**   |
+| 02  | **[Wireframing 👩‍🎓👨‍🎓](./day-03/02-html-display)**   |
+| 03  | **[CSS Selectors👩‍🏫🧑‍🏫](./day-03/02-html-display)**               |
+| 04  | **[CSS Selectors👩‍🎓👨‍🎓](./day-03/04-css-box-model)**           |
+| 05  | **[CSS Variables👩‍🏫🧑‍🏫](./day-03/05-css-box-model)**     |
+| 06  | **[CSS Variables👩‍🎓👨‍🎓](./day-03/06-css-positioning)**                     |
+| 07  | **[Mini Project👩‍🎓👨‍🎓](./day-03/07-css-positioning)**         |
 
 
 

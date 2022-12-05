@@ -5,7 +5,7 @@ weight = 1
 tags = ["html", "css"] 
 +++
 
-## 📺 HTML, Git, Github Activities Video Speed Runs 🏃‍♀️🏃
+## 📺 UX Bootstrap Activities Video Speed Runs 🏃‍♀️🏃
 | Day | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
 | 01  | {{< target-blank "Video 📺" "" >}}  |   ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  ⏲️ |
