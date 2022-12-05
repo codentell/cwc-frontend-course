@@ -117,27 +117,32 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 ## ✂️📁 Module Challenges Video Links
 ##### [ ⬆️ Back to Top](#frontend-online-boot-camp)
 
-| #   | Weeks | Module Challenge   
-|:----| ----- | :--  |
-
+| Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
+| ------  | ------ | ----------- |---------  | --------- |
+| 01 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/l_uQMOgqDjTLu9L0zutosJSPfVaJbIOQjx-lWudept_REEzaJR2uFz4HaviFw6qn.T5pQkfas1wwCWXqY" >}}  |  53:10 ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/aZNPFURGHfNTVwAYOvps0wIcAXs5pFrCvEQ913IynIbGqeC0t6Hi23AYEfQ2hUo.-N27Zxgoo_F2cRvn" >}}  |  46:16 ⏲️ |
+| 02 |   |  ⏲️  |   |  ⏲️ |
+| 03 |   |  ⏲️  |   |  ⏲️ |
+| 04 |   |  ⏲️  |   |  ⏲️ |
+| 05 |   |  ⏲️  |   |  ⏲️ |
+| 06 |   |  ⏲️  |   |  ⏲️ |
+| 07 |   |  ⏲️  |   |  ⏲️ |
+| 08 |   |  ⏲️  |   |  ⏲️ |
+| 09 |   |    |   |   |
+| 10 |   |    |   |   |
+| 11 |   |  ⏲️  |   |  ⏲️ |
+| 12 |   |  ⏲️  |   |  ⏲️ |
+| 13 |   |  ⏲️  |   |  ⏲️ |
+| 14 |   |  ⏲️  |   |  ⏲️ |
+| 15 |   |    |   |   |
+| 16 |   |    |   |   |
 
 ## Module Challenge Links
 ##### [ ⬆️ Back to Top](#frontend-online-boot-camp)
 
-| #   | Section Name        | Module Challenge 1 | Module Challenge 2 |
-|:----| ------------------- | :--  | :--  | 
-|01|[HTML CSS Git  & Advanced Git](/01-html-css-git-advanced-css)|[Module 1 Challenge](/01-html-css-git-advanced-css/challenge/01-challenge) |  [Module 2 Challenge](/01-html-css-git-advanced-css/challenge/02-challenge) |
-|02|[JavaScript Web API](/02-javascript-web-api)| [Module 3 Challenge](/02-javascript-web-api/challenge/03-challenge)  |  [Module 4 Challenge](/02-javascript-web-ap/challenge/04-challenge) |
-|03|[Third Party API & Server Side API](/03-third-party-api-server-side-api)|  [Module 5 Challenge](/03-third-party-api-server-side-api/challenge/05-challenge)  |   [Module 6 Challenge](/03-third-party-api-server-side-api/challenge/06-challenge)  |
-|04|[Project 1](/04-project-01)|     |      |
-|05|[Node.js and Object-Oriented Programming (OOP) ](/05-node-oop)|   [Module 9 Challenge](/05-node-oop/challenge/09-challenge)   |  [Module 10 Challenge](/05-node-oop/challenge/10-challenge)     |
-|06|[Express & SQL](/06-express-sql)|  [Module 11 Challenge](/06-express-sql/challenge/11-challenge)     |  [Module 12 Challenge](/06-express-sql/challenge/12-challenge) |
-|07|[Object-Relational Mapping (ORM) and Model-View-Controller (MVC)](/07-orm-mvc)|      [Module 13 Challenge](/07-orm-mvc/challenge/13-challenge) |  [Module 14 Challenge](/07-orm-mvc/challenge/14-challenge)   |
-|08|[Project 2](/08-project-02)|   |      |
-|09|[Computer Science for JavaScript and NoSQL](/09-cs-nosql)| [Module 17 Challenge](/09-cs-nosql/challenge/17-challenge)     |  [Module 18 Challenge](/09-cs-nosql/challenge/18-challenge)       |
-|10|[Progressive Web Applications (PWA) and React](/10-pwa-react)|  [Module 19 Challenge](/10-pwa-react/challenge/19-challenge)  |  [Module 20 Challenge](/10-pwa-react/challenge/20-challenge)      |
-|11|[Mern and State ](/11-mern-state)| [Module 21 Challenge](/11-mern-state/challenge/21-challenge)  | [Module 22 Challenge](/11-mern-state/challenge/22-challenge)   |
-|12|[Project 3](/12-project-03)|  |     |
+| #   | Section Name        | Module Challenge 1 | 
+|:----| ------------------- | :--  |
+|01|[HTML CSS Git  & Advanced Git](/01-html-css-git-advanced-css)|[Module 1 Challenge](/01-html-css-git-advanced-css/challenge/01-challenge) | 
+
 
 
 # 🍑

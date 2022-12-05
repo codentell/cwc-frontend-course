@@ -30,21 +30,21 @@ Students Turn = 👩‍🎓👨‍🎓
 ## Day 02
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-| 01  | **[CSS Grid Part 1👩‍🎓👨‍🎓](./day-02/01-git)**   |        
-| 02  | **[CSS Grid Part 2 👩‍🎓👨‍🎓 ](./day-02/02-html)**  |
-| 03  | **[CSS Grid Part 3 👩‍🎓👨‍🎓](./day-02/03-basic-css)**  |
+| 01  | **[CSS Grid Part 1👩‍🎓👨‍🎓](./day-02/01-css-grid-part-1)**   |        
+| 02  | **[CSS Grid Part 2 👩‍🎓👨‍🎓 ](./day-02/02-css-grid-part-2)**  |
+| 03  | **[CSS Grid Part 3 👩‍🎓👨‍🎓](./day-02/03-css-grid-part-3)**  |
                   
 
 ## Day 03
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-| 01  | **[Wireframing  👩‍🏫🧑‍🏫](./day-03/01-relative-paths)**   |
-| 02  | **[Wireframing 👩‍🎓👨‍🎓](./day-03/02-html-display)**   |
-| 03  | **[CSS Selectors👩‍🏫🧑‍🏫](./day-03/02-html-display)**               |
-| 04  | **[CSS Selectors👩‍🎓👨‍🎓](./day-03/04-css-box-model)**           |
-| 05  | **[CSS Variables👩‍🏫🧑‍🏫](./day-03/05-css-box-model)**     |
-| 06  | **[CSS Variables👩‍🎓👨‍🎓](./day-03/06-css-positioning)**                     |
-| 07  | **[Mini Project👩‍🎓👨‍🎓](./day-03/07-css-positioning)**         |
+| 01  | **[Wireframing  👩‍🏫🧑‍🏫](./day-03/01-wireframing)**   |
+| 02  | **[Wireframing 👩‍🎓👨‍🎓](./day-03/02-wireframing)**   |
+| 03  | **[CSS Selectors👩‍🏫🧑‍🏫](./day-03/02-css-selectors)**               |
+| 04  | **[CSS Selectors👩‍🎓👨‍🎓](./day-03/04-css-selectors)**           |
+| 05  | **[CSS Variables👩‍🏫🧑‍🏫](./day-03/05-css-variables)**     |
+| 06  | **[CSS Variables👩‍🎓👨‍🎓](./day-03/06-css-variables)**                     |
+| 07  | **[Mini Project👩‍🎓👨‍🎓](./day-03/07-mini-project)**         |
 
 
 

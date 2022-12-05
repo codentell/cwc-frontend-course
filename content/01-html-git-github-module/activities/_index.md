@@ -11,7 +11,7 @@ tags = ["html", "css"]
 | 01  | {{< target-blank "Video 📺" "" >}}  |   ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  ⏲️ |
 | 02 | {{< target-blank "Video 📺" "" >}}  |    ⏲️ |  {{< target-blank "Video 📺" "" >}}  |   ⏲️ |
 | 03 | {{< target-blank "Video 📺" "" >}}  |   ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  ⏲️ |
-| 04 | {{< target-blank "Video 📺" "" >}}  |   ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  ⏲️ |
+| 04 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/l_uQMOgqDjTLu9L0zutosJSPfVaJbIOQjx-lWudept_REEzaJR2uFz4HaviFw6qn.T5pQkfas1wwCWXqY" >}}  |  53:10 ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/aZNPFURGHfNTVwAYOvps0wIcAXs5pFrCvEQ913IynIbGqeC0t6Hi23AYEfQ2hUo.-N27Zxgoo_F2cRvn" >}}  |  46:16 ⏲️ |
 
 ## Activities Required ✅
 #####  [ ⬆️ Back to Top](#html-css-git-activities-video-speed-runs)
