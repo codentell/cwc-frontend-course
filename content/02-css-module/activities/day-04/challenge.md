@@ -15,7 +15,7 @@ For this Challenge and unzip the zip file.
 ### 📺 Module 02 Challenge Video Walkthrough 🏃‍♀️🏃
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 01 | {{< target-blank "Video 📺" "" >}}  |  00:00 ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00 ⏲️ |
+| 02 | {{< target-blank "Video 📺" "" >}}  |  00:00 ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00 ⏲️ |
 
 
 
