@@ -4,7 +4,7 @@ weight = 4
 tags = ["html", "git"] 
 +++
 
-# 01.4 Lesson Plan: Code Refactor Challenge
+# 1.4 Lesson Plan: Code Refactor Challenge
 
 # 01 HTML CSS Git: Code Refactor
 
