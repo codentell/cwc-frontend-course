@@ -11,7 +11,7 @@ tags = [ ]
 
 <hr>
 
-| **[🏠Home](#data-viz-blended-online-boot-camp)** | **[✅Course Guidelines](#course-guidelines)** | **[🏔Course Content](#course-content)** |  **[📺Video](#video-speed-runs)** | **[🎯Module Challenges Video](#module-challenges-video)** | **[📚Resources](#resources)** | **[Notes](#notes)** |
+| **[🏠Home](#frontend-online-boot-camp)** | **[✅Course Guidelines](#course-guidelines)** | **[🏔Course Content](#course-content)** |  **[📺Video](#video-speed-runs)** | **[🎯Module Challenges Video](#module-challenges-video)** | **[📚Resources](#resources)** | **[Notes](#notes)** 
 
 # 🍑
 
@@ -29,7 +29,7 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 
 <hr>
 
-## ✅ Course Guidelines
+## Course Guidelines
 #####  [ ⬆️ Back to Top](#frontend-online-boot-camp)
 
 | **Course Syllabus** | **Student Support** | **Getting Started** |
@@ -49,9 +49,9 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 ― George Bernard Shaw, Man and Superman
 {{% /notice %}}
 
-
-## About the Course Curriculum
+## ✅ 
 ## Course Outline 
+## About the Course Curriculum
 | Unit| Description     | What Students Learn |
 |:----| ------------------- | :--  |
 |  Section 1: `Front-End Foundation` (Module 1 - 8)       | Build a solid foundation in fundamental concepts of web development HTML, CSS, and JavaScript |  `HTML/CSS/Git` `User experience design` `JavaScript ` `Bootstap` `The DOM` `APIs`  `Jquery`  `JSON` `AJAX` |
@@ -59,8 +59,8 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 | Section: `Front-End Frameworks` (Module 11-14) |Learn the skills necessary to develop a portfolio of deployed web applications showcasing your front-end skills, using front-end libraries and testing frameworks. | `Node.js` `ES6` `Object-oriented programming` `Test-driven devlopment` `React` `Deployment` `Project Portfolio` |
 | Project 2 (Module 15 - 16) | Bring together new technologies and concepts learned in section 2 build and deploy a client-side-single-page application |  `Team collaboration` `Agile development` `Project demonstration` `Storytelling` |   
 
-
-## 🏔 Course Content
+## 🏔
+## Course Content
 ##### [ ⬆️ Back to Top](#fullstack-fulltime-online-boot-camp)
 
 | #   | Section Name         | Description |
@@ -90,20 +90,20 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 
 | #   | Section Name        | Mac 🍎 |  PC 🖼️  |
 |:----| ------------------- | :--  | :-- |
-|Level 01|[HTML, Git, Github](/01-html-git-github-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}}  {{< target-blank "Day 02 Video 📺" "" >}}  {{< target-blank "Day 03 Video 📺" "" >}}  {{< target-blank "Day 04 Video 📺" "" >}}    | 
-|Level 02|[CSS](/02-css-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
-|Level 03|[UX Bootstrap](/03-ux-bootstrap-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
-|Level 04|[JavaScript](/04-javascript-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
-|Level 05|[Advanced JavaScript](/05-advanced-javascript-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
-|Level 06|[Web APIs](/02-javascript-web-api)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
-|Level 07|[Third Party APIs](/07-third-party-apis-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
-|Level 08|[Server APIs](/08-server-apis-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
+|Level 01|[HTML, Git, Github](/01-html-git-github-module)| {{< target-blank "Day 01 Video 📺" "https://zoom.us/rec/share/devDhF5xztV6kmgHA8K-sZ8HMUyATHjg3MI0DLCBAYD6_D8rC8p8Z34ZJsLMfMt6.0yOnchg5nJfwWnXE" >}} {{< target-blank "Day 02 Video 📺" "https://zoom.us/rec/share/WH602sXGW0VVLhLI-cMDHUXkU3P3fGTL8D2W8oTpiIEDzHlT3HHTZh9yL-OqkF_H.XYqNkq2yfF37y2Wu" >}}   {{< target-blank "Day 03 Video 📺" "https://zoom.us/rec/share/-8x4TSpjOjuxajffNokB7ccdG3vkbd94WpUEqxRnh3qICyDn7eB_Fg8oUdNBWLaX.EU5O6zKYcgJTxV3e" >}}   {{< target-blank "Day 04 Video 📺" "https://zoom.us/rec/share/l_uQMOgqDjTLu9L0zutosJSPfVaJbIOQjx-lWudept_REEzaJR2uFz4HaviFw6qn.T5pQkfas1wwCWXqY" >}}  |  {{< target-blank "Day 01 Video 📺" "https://zoom.us/rec/play/V7JandP5nOaPH7_8KONO-OCoLlyp2urGl_I7g4PIto2YDWNSrUEK4yD8YQUxgyiCoGSa3dkgcgKgR6gE.s4wCITCsl_ZDFqiC?continueMode=true" >}}  {{< target-blank "Day 02 Video 📺" "https://zoom.us/rec/share/q2K1Ucx28clhRO1BKhyCbRSfhPsgxZZUHwzyjzU-1pyLk8ULa62Xcl26RvR5AJWF.gs6Plxexkjn3McYd" >}}  {{< target-blank "Day 03 Video 📺" "https://zoom.us/rec/share/nnuJauyEKLUfgT3tm0DrRgXr3rumpmT4h_S1WEIlf6ZjQwBiMsHHTkcepJFAEzOH.1L8XdXRC7hNH6p27" >}}  {{< target-blank "Day 04 Video 📺" "https://zoom.us/rec/play/JvuNZFfZZqSJ9BZfUWvl6N8FCwBskpsqv6A4M2OF993aEGrs4LYTlwjfjq12mGJ7Ia3au2efAqVJEYoe.C9_W1UQEtqylYqTK?continueMode=true" >}}    | 
+|Level 02|[CSS](/02-css-module)|   |     |
+|Level 03|[UX Bootstrap](/03-ux-bootstrap-module)|  |     |
+|Level 04|[JavaScript](/04-javascript-module)|   |     |
+|Level 05|[Advanced JavaScript](/05-advanced-javascript-module)|   |     |
+|Level 06|[Web APIs](/02-javascript-web-api)|   |    |
+|Level 07|[Third Party APIs](/07-third-party-apis-module)|  |    |
+|Level 08|[Server APIs](/08-server-apis-module)|   |     |
 |Level 09|[Project 1 Part 1](/09-project-1-part-1-module)|  |    |
 |Level 10|[Project 1 Part 2](/10-project-1-part-2-module)|   |   |
-|Level 11|[ES6](/11-es6-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
-|Level 12|[Object Oriented Programming ](/12-object-oriented-programming-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
-|Level 13|[React](/13-react-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
-|Level 14|[React State Deployment](/14-react-state-deployment-module)| {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}  |  {{< target-blank "Day 01 Video 📺" "" >}} {{< target-blank "Day 02 Video 📺" "" >}}   {{< target-blank "Day 03 Video 📺" "" >}}   {{< target-blank "Day 04 Video 📺" "" >}}   |
+|Level 11|[ES6](/11-es6-module)|   |     |
+|Level 12|[Object Oriented Programming ](/12-object-oriented-programming-module)|   |     |
+|Level 13|[React](/13-react-module)|  |    |
+|Level 14|[React State Deployment](/14-react-state-deployment-module)|   |     |
 |Level 15|[Project 2 Part 1](/15-project-2-part-1-module)|  |   |
 |Level 16|[Project 2 Part 2](/16-project-2-part-2-module)|   |     |
 
@@ -139,9 +139,10 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 ## Module Challenge Links
 ##### [ ⬆️ Back to Top](#frontend-online-boot-camp)
 
-| #   | Section Name        | Module Challenge 1 | 
+| #   | Section Name        | Module Challenge  | 
 |:----| ------------------- | :--  |
-|01|[HTML CSS Git  & Advanced Git](/01-html-css-git-advanced-css)|[Module 1 Challenge](/01-html-css-git-advanced-css/challenge/01-challenge) | 
+|01|[HTML Git & Github](/01-html-css-git-github-module)|[Module 1 Challenge](/01-html-git-github-module/challenges) | 
+|02|[CSS ](/02-css-module)|[Module 2 Challenge](/02-css-module/challenges) | 
 
 
 
