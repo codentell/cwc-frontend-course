@@ -141,9 +141,8 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 
 | #   | Section Name        | Module Challenge  | 
 |:----| ------------------- | :--  |
-|01|[HTML Git & Github](/01-html-css-git-github-module)|[Module 1 Challenge](/01-html-git-github-module/challenges) | 
+|01|[HTML Git & Github](/01-html-css-git-github-module)|[Module 1 Challenge](/01-html-git-github-module/challenges)|
 |02|[CSS ](/02-css-module)|[Module 2 Challenge](/02-css-module/challenges) | 
-
-
+|03| | |
 
 # 🍑
