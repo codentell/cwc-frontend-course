@@ -32,7 +32,7 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 ## Course Guidelines
 #####  [ ⬆️ Back to Top](#frontend-online-boot-camp)
 
-| **Course Syllabus** | **Student Support** | **Getting Started** |
+<!-- | **Course Syllabus** | **Student Support** | **Getting Started** |
 |:--| :--|:--|
 |[Code Of Student Conduct](00-admin-resources/code-of-conduct/#student-code-of-conduct)| [Student Support Listing](00-admin-resources/student-support/#student-support) | [🔶Gitlab](00-admin-resources/tutorials/gitlab/#using-gitlab)|
 |[Attendance and Late Policy](/00-admin-resources/attendance-policy/#attendance)|[Class Videos](/00-admin-resources/student-support/#class-videos)|[🔶🐱🐙Git-Github](/00-admin-resources/tutorials/git-github/#github-practice)|
@@ -40,7 +40,7 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 |[🏠📝Homework](00-admin-resources/homework/#homework) |[Office Hours](/00-admin-resources/student-support/#office-hours) | [🔐🖼️SSH-Keys PC](/00-admin-resources/tutorials/SSH-Keys/windows/windows/#ssh-key-windows)|
 |[🚀Projects](/00-admin-resources/projects/#projects) |[Important Links And Notes](/00-admin-resources/student-support/#important-links-and-notes)| [⬛️ Terminal](/00-admin-resources/tutorials/terminal-activity/#getting-familiar-with-the-terminal)|
 |[🚫Plagiarism](/00-admin-resources/plagiarism/) |[Technical Curriculum by Week](/00-admin-resources/student-support/#technical-curriculum-by-week) | [💬 What is Slack?](/00-admin-resources/slack/#slack) |
-
+ -->
 
 
 ---
@@ -65,9 +65,9 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 
 | #   | Section Name         | Description |
 |:----| ------------------- | :--  |
-|Level 01|[HTML Git Github](/01-html-git-github-module)  |    |
-|Level 02|[CSS](/02-css-module) |   |
-|Level 03| [UX Bootstrap](/03-ux-bootstrap-module)|   |
+|Level 01|[HTML Git Github](/01-html-git-github-module)  |  In this unit, we will be welcoming our students to their first unit of our Web Development Boot Camp. We'll be walking them through the very basics of HTML/CSS, Git Version Control, and Terminal/Console commands.   |
+|Level 02|[CSS](/02-css-module) | In this module, students will be adding to the skills they have already learned, and be introduced to more in-depth CSS.   |
+|Level 03| [UX Bootstrap](/03-ux-bootstrap-module)|  This module, students will be introduced to Bootstrap. Everything they have learned up until now will assist them as they navigate the use of Bootstrap.  |
 |Level 04| [JavaScript](/04-javascript-module) |  |
 |Level 05|[Advanced JavaScript](/05-advanced-javascript-module)| |
 |Level 06| [Web APIs](/06-web-apis-module)|  |
