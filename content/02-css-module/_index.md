@@ -7,6 +7,7 @@ pre: "<b>0️2. </b>"
 # Module 02  CSS
 
 #### All Module 02 Activites  📂 (Please Download Attachment Below 👇) 
+{{%attachments style="green" /%}}
 
 
 ### Video Speed Run  of the Activities 

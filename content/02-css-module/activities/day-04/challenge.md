@@ -8,7 +8,7 @@ tags = ["html", "css"]
 ### Download your starter code for module 1 challenge 
 
 For this Challenge and unzip the zip file.
-
+{{%attachments style="green" /%}}
 
 
 ### Video Speed Run if you get stuck 
@@ -46,7 +46,7 @@ Here are the critical requirements necessary to develop a portfolio that satisfi
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./images/01-css-challenge-demo.gif)
+![portfolio demo](../images/01-css-challenge-demo.gif)
 
 Feel free to use your own colors and images.
 
