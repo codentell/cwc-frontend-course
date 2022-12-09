@@ -111,7 +111,7 @@ During this activity, you will test your CSS Flexbox skills by building a webpag
 
 ## Folder Structure
 ```bash
-06-Ins-CSS-positioning
+03-Jakes-Eatery
 ├── css
 │    └── style.css
 ├── images
