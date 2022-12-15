@@ -236,6 +236,12 @@ footer {
 
 /* TODO: Add code here to select all <a> elements that link to a file with a `.css` extension */
 
+a[href$='.css']::after {
+  content: '📝';
+  display: inline-block;
+  margin-left: 3px;
+}
+
 @media screen and (max-width: 768px) {
   header {
     flex-direction: column;
