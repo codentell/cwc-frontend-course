@@ -1,5 +1,5 @@
 +++
-title = "02. Ger Started with Bootstrap"
+title = "02. Ger Started with Bootstrap 👩‍🎓👨‍🎓"
 weight = 2
 tags = ["bootstrap"] 
 +++

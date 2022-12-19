@@ -1,12 +1,10 @@
 ---
-title: UX Bootstrap 🔒 
+title: UX Bootstrap  
 weight: 3
 pre: "<b>0️3. </b>"
 ---
 
 # Module 03  UX Bootstrap
-
-#### All Module 03 Activites  📂 (Please Download Attachment Below 👇) 
 
 ### Video Speed Run  of the Activities 
 **if you get stuck or miss class**

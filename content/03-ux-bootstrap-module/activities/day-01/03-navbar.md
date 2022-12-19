@@ -1,5 +1,5 @@
 +++
-title = "03. Navbar"
+title = "03. Navbar 👩‍🎓👨‍🎓"
 weight = 1
 tags = ["bootstrap"] 
 +++
