@@ -7,7 +7,7 @@ tags = ["bootstrap"]
 
 ### Download your starter code for module 1 challenge 
 
-For this Challenge and unzip the zip file.
+For this Challenge no  zip file.
 
 
 
