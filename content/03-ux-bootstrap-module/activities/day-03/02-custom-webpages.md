@@ -57,12 +57,12 @@ Next up, you will add to and style the content section of your website. Feel fre
 
 1. Add the following CSS to style the `valueProp` and `sideAccent` classes:
 
-  ![valueProp and Accent Properties](./images/prop-accent-properties.png)
+  ![valueProp and Accent Properties](../images/prop-accent-properties.png)
 
 
 2. Next, add the following to style the `imageContainer` class and images inside that element:
 
-  ![imageContainer Properties](./images/image-container-properties.png)
+  ![imageContainer Properties](../images/image-container-properties.png)
 
 3. Congrats! You should now have three rows of content on your template.
 
