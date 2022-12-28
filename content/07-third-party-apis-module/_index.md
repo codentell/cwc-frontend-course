@@ -20,6 +20,7 @@ pre: "<b>0️7. </b>"
 
 ### Video Speed Run if you get stuck 
 ### 📺 Module 07 Challenge Video Walkthrough 🏃‍♀️🏃
+
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
 | 07 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
