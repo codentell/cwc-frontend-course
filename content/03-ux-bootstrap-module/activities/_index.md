@@ -14,7 +14,7 @@ tags = ["ux", "bootstrap"]
 | 04 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/1yt2xvSG2y3eiCjgPelnNOoytJ38qEYN1iUvEdTEIdrtp5somCzPvw9kLirS277Me9dlkkCsl8rdi_u7.lt7xvuKdY7mry8mm?continueMode=true" >}}  |   01:39:41 ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/1yt2xvSG2y3eiCjgPelnNOoytJ38qEYN1iUvEdTEIdrtp5somCzPvw9kLirS277Me9dlkkCsl8rdi_u7.lt7xvuKdY7mry8mm?continueMode=true" >}}  |  01:39:41 ⏲️ |
 
 ## Activities Required ✅
-#####  [ ⬆️ Back to Top](#html-css-git-activities-video-speed-runs)
+#####  [ ⬆️ Back to Top](#ux-bootstrap-activities-video-speed-runs)
 Instructor Turn = 👩‍🏫🧑‍🏫
 Students Turn = 👩‍🎓👨‍🎓
 

@@ -2,10 +2,10 @@
 title = "Activities ✅"
 chapter = true
 weight = 1
-tags = ["javascript"] 
+tags = ["advanced javascript"] 
 +++
 
-## 📺 JavaScript Activities Video Speed Runs 🏃‍♀️🏃
+## 📺 Advanced JavaScript Activities Video Speed Runs 🏃‍♀️🏃
 | Day | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
 | 01 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
@@ -15,7 +15,7 @@ tags = ["javascript"]
 
 
 ## Activities Required ✅
-#####  [ ⬆️ Back to Top](#javascript-activities-video-speed-runs)
+#####  [ ⬆️ Back to Top](#advanced-javascript-activities-video-speed-runs)
 Instructor Turn = 👩‍🏫🧑‍🏫
 Students Turn = 👩‍🎓👨‍🎓
 
@@ -42,5 +42,5 @@ Students Turn = 👩‍🎓👨‍🎓
 ## Day 04 
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-| 01  | **[Module 4 Challenge 👩‍🎓👨‍🎓](./day-04/challenge)**   |
+| 01  | **[Module 5 Challenge 👩‍🎓👨‍🎓](./day-04/challenge)**   |
 
