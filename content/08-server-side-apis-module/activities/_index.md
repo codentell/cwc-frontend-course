@@ -2,7 +2,7 @@
 title = "Activities ✅"
 chapter = true
 weight = 1
-tags = ["third party apis"] 
+tags = ["server side apis"] 
 +++
 
 ## 📺 Server Side APIs Activities Video Speed Runs 🏃‍♀️🏃
