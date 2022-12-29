@@ -40,12 +40,21 @@ Students Turn = 👩‍🎓👨‍🎓
 ## Day 02
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
-
+| 01  | **[Arrays 👩‍🏫🧑‍🏫](./day-02/01-arrays)**   |
+| 02  | **[Arrays 👩‍🎓👨‍🎓](./day-02/02-arrays)**   |
+| 03  | **[Iteration 👩‍🏫🧑‍🏫](./day-02/03-iteration)**   |
+| 04  | **[Iteration 👩‍🎓👨‍🎓](./day-02/04-iteration)**   |
+| 05  | **[Prompts 👩‍🏫🧑‍🏫](./day-02/05-prompts)**   |
+| 06  | **[Prompts 👩‍🎓👨‍🎓](./day-02/06-prompts)**   |
+| 07  | **[Switch 👩‍🎓👨‍🎓](./day-02/07-switch)**   |
+| 08  | **[Conditional Loops 👩‍🎓👨‍🎓](./day-02/08-conditional-loops)**   |
                   
 
 ## Day 03
 | Num | Activities Required                                          |
 | --- | ------------------------------------------------------------ | 
+| 01  | **[Pseudocode 👩‍🎓👨‍🎓](./day-03/01-pseudocode)**   |
+| 02  | **[Rock Paper Scissors 👩‍🎓👨‍🎓](./day-03/02-rps)**   |
 
 
 
