@@ -29,18 +29,6 @@ pre: "<b>0️8. </b>"
 
 In this module, we will be introducing students to the concept of server-side APIs and the use of AJAX queries to retrieve and parse data in JSON formats. Throughout the module, we'll be specifically working with the Giphy, OMDb, and _New York Times_ APIs.
 
-## Instructor/TA Notes
-
-Make sure that students sign up and obtain THEIR OWN PERSONAL API KEY for any APIs we might use, as the public keys that we provide could be deactivated at any time.
-
-Be sure to slack out this [tutorial on the OpenWeatherMap API](http://osp123.github.io/tutorials/html/weatherAPI.html) as pre-reading for this module's content.
-
-## Heads Up
-
-In the next module, we start to work on projects. It is recommended that you use some of the group assignments in this module to gauge which students will work well together on projects.
-
-Make sure that these groups are created prior to class 8.1. Groups are made up of three or four students. Three is ideal, but not always possible. In groups of four (or more), it is easy for weaker students to be cut out of the workflow or hide behind their stronger teammates. **DO NOT allow students to work alone or in pairs.** Group projects are one of the few opportunities for students to work collaboratively.
-
 ### Slides
 
 * 8.1 Introduction to APIs and AJAX Slide Deck: None (No Slides)
