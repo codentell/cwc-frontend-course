@@ -7,7 +7,7 @@ pre: "<b>0️6. </b>"
 # Module 06 Web APIs
 
 #### All Module 06 Activites  📂 (Please Download Attachment Below 👇) 
-
+{{%attachments style="green" /%}}
 
 ### Video Speed Run  of the Activities 
 **if you get stuck or miss class**

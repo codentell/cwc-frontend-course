@@ -7,6 +7,7 @@ pre: "<b>0️5. </b>"
 # Module 05 Advanced JavaScript
 
 #### All Module 05 Activites  📂 (Please Download Attachment Below 👇) 
+{{%attachments style="green" /%}}
 
 ### Video Speed Run  of the Activities 
 **if you get stuck or miss class**

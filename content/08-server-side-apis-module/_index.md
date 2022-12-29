@@ -7,6 +7,7 @@ pre: "<b>0️8. </b>"
 # Module 08 Server Side APIs
 
 #### All Module 08 Activites  📂 (Please Download Attachment Below 👇) 
+{{%attachments style="green" /%}}
 
 ### Video Speed Run  of the Activities 
 **if you get stuck or miss class**

@@ -7,6 +7,7 @@ pre: "<b>0️7. </b>"
 # Module 07 Third Party APIs
 
 #### All Module 07 Activites  📂 (Please Download Attachment Below 👇) 
+{{%attachments style="green" /%}}
 
 ### Video Speed Run  of the Activities 
 **if you get stuck or miss class**
