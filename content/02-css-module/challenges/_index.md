@@ -7,7 +7,7 @@ tags = ["html", "css"]
 
 ### Download your starter code for module 2 challenge 
 
-For this Challenge and unzip the zip file.
+For this Challenge please unzip the zip file.
 
 {{%attachments style="green" /%}}
 

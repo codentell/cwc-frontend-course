@@ -120,9 +120,9 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
 | 01 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/l_uQMOgqDjTLu9L0zutosJSPfVaJbIOQjx-lWudept_REEzaJR2uFz4HaviFw6qn.T5pQkfas1wwCWXqY" >}}  |  53:10 ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/aZNPFURGHfNTVwAYOvps0wIcAXs5pFrCvEQ913IynIbGqeC0t6Hi23AYEfQ2hUo.-N27Zxgoo_F2cRvn" >}}  |  46:16 ⏲️ |
-| 02 |  {{< target-blank "Video 📺 Part 1" "https://zoom.us/rec/share/WzM3V5iyqt7LYn5CjiWo1zXmpB9GNEoX4VttPamORP3Doz4va7_8VBcUUjWC8Xga.rv1uKFJYf3JseP1U" >}} {{< target-blank "Video 📺 Part 2" "https://zoom.us/rec/share/rxmEdTmB9DT8CwGlB5rB0C7cJEiRYrVbgx_97sVBlSlWOBA40gczph3rECePP2LC.i3NaG1MbzsoQ55_x" >}}   |   00:52:76  ⏲️  00:04:25 ⏲️  |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/NPKV7AnbY7q67kSPd_ZwFmiE29dVlMk7ORzt-XRcZdSCPOd_bd0scp3oRX92r4QX.mKCsliETzvv94Nwy" >}}   |  1:14:09⏲️ |
+| 02 |  {{< target-blank "Video 📺 Part 1" "https://zoom.us/rec/share/WzM3V5iyqt7LYn5CjiWo1zXmpB9GNEoX4VttPamORP3Doz4va7_8VBcUUjWC8Xga.rv1uKFJYf3JseP1U" >}} {{< target-blank "Video 📺 Part 2" "https://zoom.us/rec/share/rxmEdTmB9DT8CwGlB5rB0C7cJEiRYrVbgx_97sVBlSlWOBA40gczph3rECePP2LC.i3NaG1MbzsoQ55_x" >}}   |   52:76  ⏲️  04:25 ⏲️  |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/NPKV7AnbY7q67kSPd_ZwFmiE29dVlMk7ORzt-XRcZdSCPOd_bd0scp3oRX92r4QX.mKCsliETzvv94Nwy" >}}   |  1:14:09⏲️ |
 | 03 |   {{< target-blank "Video 📺" "https://zoom.us/rec/play/1yt2xvSG2y3eiCjgPelnNOoytJ38qEYN1iUvEdTEIdrtp5somCzPvw9kLirS277Me9dlkkCsl8rdi_u7.lt7xvuKdY7mry8mm?continueMode=true" >}}  |  1:39:41 ⏲️  |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/1yt2xvSG2y3eiCjgPelnNOoytJ38qEYN1iUvEdTEIdrtp5somCzPvw9kLirS277Me9dlkkCsl8rdi_u7.lt7xvuKdY7mry8mm?continueMode=true" >}}    |  1:39:41  ⏲️ |
-| 04 |   |  ⏲️  |   |  ⏲️ |
+| 04 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/ldH3sFzLh9tJ1jLiegeY0CvHbpivIQrvIlTuj4f17K4Q8LfenGRHMw434yRs-W_pMhiwY-UPkAnAtfbv.S_9wdx-JqpR_nXCp?continueMode=true " >}}  |  36:18 ⏲️  | {{< target-blank "Video 📺" "https://zoom.us/rec/play/ldH3sFzLh9tJ1jLiegeY0CvHbpivIQrvIlTuj4f17K4Q8LfenGRHMw434yRs-W_pMhiwY-UPkAnAtfbv.S_9wdx-JqpR_nXCp?continueMode=true " >}}   |  36:18 ⏲️ |
 | 05 |   |  ⏲️  |   |  ⏲️ |
 | 06 |   |  ⏲️  |   |  ⏲️ |
 | 07 |   |  ⏲️  |   |  ⏲️ |
@@ -143,6 +143,7 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 |:----| ------------------- | :--  |
 |01|[HTML Git & Github](/01-html-css-git-github-module)|[Module 1 Challenge](/01-html-git-github-module/challenges)|
 |02|[CSS ](/02-css-module)|[Module 2 Challenge](/02-css-module/challenges) | 
-|03| [UX Bootsrap](/03-ux-bootstrap) | [Module 3 Challenge](/03-ux-bootstrap/challenges) |
+|03| [UX Bootsrap](/03-ux-bootstrap) | [Module 3 Challenge](/03-ux-bootstrap-module/challenges) |
+|04| [JavaScript](/04-javascript) | [Module 4 Challenge](/04-javascript-module/challenges) |
 
 # 🍑

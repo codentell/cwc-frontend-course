@@ -14,7 +14,7 @@ pre: "<b>0️3. </b>"
 | 01 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/M0qKiddTCZtHhrW02ARnDSVabEey720XQHM6nFo255BK52itz9anolGVx-3XqWKtSKI5wp3TtpDxpleK.DRAbVyGfMb8xNCua?continueMode=true" >}}  |  00:58:37  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/M0qKiddTCZtHhrW02ARnDSVabEey720XQHM6nFo255BK52itz9anolGVx-3XqWKtSKI5wp3TtpDxpleK.DRAbVyGfMb8xNCua?continueMode=true" >}}  |  00:58:37 ⏲️ |
 | 02 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
 | 03 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/waBBWnikl3tnGDvGQWjOi0RUMn57v06AYX7JIrsYh2nycBxfShHAdO_rSXCLIoKh5aGbgvCh3HJsW_6Q.M4q3u19cw-5dLoKw?continueMode=true" >}}  |  01:42:50  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/waBBWnikl3tnGDvGQWjOi0RUMn57v06AYX7JIrsYh2nycBxfShHAdO_rSXCLIoKh5aGbgvCh3HJsW_6Q.M4q3u19cw-5dLoKw?continueMode=true" >}}  |  01:42:50 ⏲️ |
-| 04 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/1yt2xvSG2y3eiCjgPelnNOoytJ38qEYN1iUvEdTEIdrtp5somCzPvw9kLirS277Me9dlkkCsl8rdi_u7.lt7xvuKdY7mry8mm?continueMode=true" >}}  |  01:39:41  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  01:39:41 ⏲️ |
+| 04 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/1yt2xvSG2y3eiCjgPelnNOoytJ38qEYN1iUvEdTEIdrtp5somCzPvw9kLirS277Me9dlkkCsl8rdi_u7.lt7xvuKdY7mry8mm?continueMode=true" >}}  |  01:39:41  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/1yt2xvSG2y3eiCjgPelnNOoytJ38qEYN1iUvEdTEIdrtp5somCzPvw9kLirS277Me9dlkkCsl8rdi_u7.lt7xvuKdY7mry8mm?continueMode=true" >}}  |  01:39:41 ⏲️ |
 
 ### Video Speed Run 
 **if you get stuck**

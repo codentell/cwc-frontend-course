@@ -8,13 +8,11 @@ tags = ["bootstrap"]
 
 For this Challenge no  zip file.
 
-
-
 ### Video Speed Run if you get stuck 
 ### 📺 Module 03 Challenge Video Walkthrough 🏃‍♀️🏃
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 03 | {{< target-blank "Video 📺" "" >}}  |  00:00 ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00 ⏲️ |
+| 03 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/1yt2xvSG2y3eiCjgPelnNOoytJ38qEYN1iUvEdTEIdrtp5somCzPvw9kLirS277Me9dlkkCsl8rdi_u7.lt7xvuKdY7mry8mm?continueMode=true" >}}  |  01:39:41 ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/1yt2xvSG2y3eiCjgPelnNOoytJ38qEYN1iUvEdTEIdrtp5somCzPvw9kLirS277Me9dlkkCsl8rdi_u7.lt7xvuKdY7mry8mm?continueMode=true" >}}  |  01:39:41 ⏲️ |
 
 
 In this assignment, you'll be building your portfolio layout using the Bootstrap CSS Framework from scratch.
@@ -76,84 +74,37 @@ A section displaying your work in grid.
 
 If you need to use placeholder image use placehold.coLinks to an external site.
 
-Use Bootstrap cards for each project.
+* Use Bootstrap cards for each project.
 
-The description should give a brief overview of the work.
+* The description should give a brief overview of the work.
 
-Each project will eventually link to your class project work!
+* Each project will eventually link to your class project work!
 
-A skills section
+* A skills section
 
-List out the skills you expect to learn from the bootcamp.
+* List out the skills you expect to learn from the bootcamp.
 An about/contact section
 
-An About Me section in the same row.
+* An About Me section in the same row.
 A footer section
 
-All hyperlinks should have a hover effect.
+* All hyperlinks should have a hover effect.
 
-All buttons should display a box shadow upon hover.
+* All buttons should display a box shadow upon hover.
 
-Your Bootstrap solution should minimize use of media queries.
+* Your Bootstrap solution should minimize use of media queries.
 
-Deploy your new Bootstrap-powered portfolio to GitHub Pages.
+* Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
-Helpful Resources
-Bootstrap DocumentationLinks to an external site.
+## Helpful Resources
+Bootstrap Documentation
 
-Responsive Web Design * How to Create Media QueriesLinks to an external site.
+* Responsive Web Design * How to Create Media Queries
 
-Media Queries 101 by CSS TricksLinks to an external site.
+* Media Queries 101 by CSS Tricks
 
-Media Query DocumentationLinks to an external site.
+* Media Query Documentation
 
-Github Pages GuideLinks to an external site.
+* Github Pages Guide
 
-Choose "Project Site" and "Start from Scratch" to get correct instructions.
-Grading Requirements
-NOTE
-If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
-
-A repository that has no code
-
-A repository that includes a unique name but nothing else
-
-A repository that includes only a README file but nothing else
-
-A repository that only includes starter code
-
-This homework is graded based on the following criteria:
-
-Technical Acceptance Criteria: 40%
-Satisfies all of the above acceptance criteria.
-Deployment: 32%
-Application deployed at live URL.
-
-Application loads with no errors.
-
-Application GitHub URL submitted.
-
-GitHub repository contains application code.
-
-Application Quality: 15%
-Application resembles the functionality of their previous portfolio.
-Repository Quality: 12%
-Repository has a unique name.
-
-Repository follows best practices for file structure and naming conventions.
-
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-Repository contains multiple descriptive commit messages.
-
-Repository contains quality readme with description, screenshot, link to deployed application.
-
-Review
-You are required to submit BOTH of the following for review:
-
-The URL of the deployed application.
-
-The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
-### NOTE
-You are allowed to miss up to three Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest three grades will be dropped. If you wish to skip this assignment, click Next, and move on to the next Module.
+* Choose "Project Site" and "Start from Scratch" to get correct instructions.
