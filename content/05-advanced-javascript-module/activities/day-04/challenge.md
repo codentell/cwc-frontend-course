@@ -36,9 +36,7 @@ for this Challenge and unzip the zip file.
 ## Instructions
 The following image shows the web application's appearance and functionality:
 
-
-![password generator demo](./images/05-javascript-challenge-demo.png)
-
+![password generator demo](../images/05-javascript-challenge-demo.png)
 
 Your application must:
 

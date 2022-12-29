@@ -4,7 +4,7 @@ weight = 1
 tags = ["bootstrap"] 
 +++
 
-### Download your starter code for module 1 challenge 
+### Download your starter code for module 3 challenge 
 
 For this Challenge no  zip file.
 
