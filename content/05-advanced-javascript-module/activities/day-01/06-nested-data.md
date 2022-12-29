@@ -1,5 +1,5 @@
 +++
-title = "06. Nested Data "
+title = "06. Nested Data 👩‍🎓👨‍🎓"
 weight = 6
 tags = ["advanced javascript"] 
 +++

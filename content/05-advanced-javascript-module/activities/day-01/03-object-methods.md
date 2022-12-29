@@ -1,5 +1,5 @@
 +++
-title = "03. Objects Methods "
+title = "03. Objects Methods 👩‍🏫🧑‍🏫"
 weight = 3
 tags = ["advanced javascript"] 
 +++
