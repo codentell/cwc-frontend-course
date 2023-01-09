@@ -5,6 +5,7 @@ pre: "<b>0️8. </b>"
 ---
 
 # Module 08 Server Side APIs
+{{%attachments style="green" /%}}
 
 #### All Module 08 Activites  📂 (Please Download Attachment Below 👇) 
 {{%attachments style="green" /%}}

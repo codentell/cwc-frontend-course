@@ -7,6 +7,7 @@ pre: "<b>11. </b>"
 # Module 11 ES6 & Node.js
 
 #### All Module 11 Activites  📂 (Please Download Attachment Below 👇) 
+{{%attachments style="green" /%}}
 
 ### Video Speed Run  of the Activities 
 **if you get stuck or miss class**
