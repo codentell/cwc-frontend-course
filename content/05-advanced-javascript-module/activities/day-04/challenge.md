@@ -17,7 +17,7 @@ For this Challenge please unzip the zip file.
 ### 📺 Module 05 Challenge Video Walkthrough 🏃‍♀️🏃
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 04 | {{< target-blank "Video 📺" "" >}}   |  00:00:00  ⏲️   |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
+| 05 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/u_BRhqD-Pe5cPQvwzFB7s7vWirAdq-OIJUptKA-MMOimhghHiIjrLZtW7tBbCA13.2RS6uvekntos91Un" >}}  |  00:36:05  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/u_BRhqD-Pe5cPQvwzFB7s7vWirAdq-OIJUptKA-MMOimhghHiIjrLZtW7tBbCA13.2RS6uvekntos91Un" >}}  |  00:36:05 ⏲️ |
 
 
 This week’s Challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code.
