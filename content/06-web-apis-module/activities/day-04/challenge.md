@@ -52,7 +52,7 @@ THEN I can save my initials and score
 
 ## Mock-Up
 The following animation demonstrates the application functionality:
-![](./images/web-apis-challenge-demo.gif)
+![](../images/web-apis-challenge-demo.gif)
 
 **Animation of code quiz. Presses button to start quiz. Clicks the button for the answer to each question, displays if answer was correct or incorrect. Quiz finishes and displays high scores. User adds their intials, then clears their intials and starts over.**
 
