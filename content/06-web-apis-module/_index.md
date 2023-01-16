@@ -14,17 +14,17 @@ pre: "<b>0️6. </b>"
 
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 01 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
-| 02 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
-| 03 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
-| 04 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
+| 01 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/SLvsYfFCAe9PhvKyieKLIR4PNBozbyO84JUXLZ1zkZFSz8pKa81QDbNmY9rAuQ1RWAe5nVe6yMMHI9Mi.OOArI7CR5KpsnccQ?continueMode=true" >}}  |  01:10:17  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/SLvsYfFCAe9PhvKyieKLIR4PNBozbyO84JUXLZ1zkZFSz8pKa81QDbNmY9rAuQ1RWAe5nVe6yMMHI9Mi.OOArI7CR5KpsnccQ?continueMode=true" >}}  |  01:10:17 ⏲️ |
+| 02 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/7b4_ruPw4iULlnmAaTBAXJ1wUkbKXW6Cw_2sKCY1pjn2lPTiiEtvP3EvO5_PHPyoCbaOQtPqPSoemxcv.N7DiI4QodYvO0FDr?continueMode=true" >}}  |  00:48:12  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/7b4_ruPw4iULlnmAaTBAXJ1wUkbKXW6Cw_2sKCY1pjn2lPTiiEtvP3EvO5_PHPyoCbaOQtPqPSoemxcv.N7DiI4QodYvO0FDr?continueMode=true" >}}  |  00:48:12 ⏲️ |
+| 03 | {{< target-blank "Video 📺" "https://zoom.us/rec/play/_vu5kc8Z6xGugUrMlEDFyiD8DPGz39a01c7HJw-rFT7SOPUWC64qsQYd3yfW1t7GOThVfb9qsxIRO99Q.UD_SaQZjo7mjyz_z?continueMode=true" >}}  |  01:05:05  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/play/_vu5kc8Z6xGugUrMlEDFyiD8DPGz39a01c7HJw-rFT7SOPUWC64qsQYd3yfW1t7GOThVfb9qsxIRO99Q.UD_SaQZjo7mjyz_z?continueMode=true" >}}  |  01:05:05 ⏲️ |
+| 04 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/eEINIafllYNboqCJ2mF7GtwMc8YugiCZZk1r5R7PlQryp6WiubEssyvFYnA0gRBm.lPgA4uFSfNG_b3vl" >}}  |  00:43:53  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/eEINIafllYNboqCJ2mF7GtwMc8YugiCZZk1r5R7PlQryp6WiubEssyvFYnA0gRBm.lPgA4uFSfNG_b3vl" >}}  |  00:43:53 ⏲️ |
 
 
 ### Video Speed Run if you get stuck 
 ### 📺 Module 06 Challenge Video Walkthrough 🏃‍♀️🏃
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 06 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
+| 06 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/eEINIafllYNboqCJ2mF7GtwMc8YugiCZZk1r5R7PlQryp6WiubEssyvFYnA0gRBm.lPgA4uFSfNG_b3vl" >}}  |  00:43:53  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/eEINIafllYNboqCJ2mF7GtwMc8YugiCZZk1r5R7PlQryp6WiubEssyvFYnA0gRBm.lPgA4uFSfNG_b3vl" >}}  |  00:43:53 ⏲️ |
 
 
 ## Overview
