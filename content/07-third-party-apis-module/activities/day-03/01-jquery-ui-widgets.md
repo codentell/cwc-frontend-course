@@ -3,3 +3,109 @@ title = "01. jQuery UI Widgets 👩‍🏫🧑‍🏫"
 weight = 1
 tags = ["third party apis"] 
 +++
+
+```html
+<!DOCTYPE html>
+<!-- Resulting code after Instructor Demo -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Changed to our own stylesheet -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <!-- Added Bootstrap -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"
+    />
+    <!-- Changed title -->
+    <title>jQuery UI Widgets</title>
+  </head>
+  <body>
+    <!-- Added body content -->
+    <div class="jumbotron jumbotron-fluid bg-info text-light">
+      <div class="container text-center">
+        <h1>
+          jQuery UI Widgets
+        </h1>
+      </div>
+    </div>
+    <div class="container my-4">
+      <div class="row justify-content-center">
+        <div class="col-12 col-sm-10 col-md-6">
+          <h2>Basic Dialog Widget</h2>
+          <h4 class="byline">Open content in an interactive overlay.</h4>
+          <p>
+            The basic dialog window is an overlay positioned within the viewport
+            and is protected from page content (like select elements) shining
+            through with an iframe. It has a title bar and a content area, and
+            can be moved, resized and closed with the 'x' icon by default.
+          </p>
+          <p>
+            To learn more, visit
+            <a href="https://jqueryui.com/dialog/"
+              >https://jqueryui.com/dialog/</a
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="dialog" title="Dialog">
+      <p>
+        This is the default dialog which is useful for displaying information.
+        The dialog window can be moved, resized and closed with the 'x' icon.
+      </p>
+    </div>
+  </body>
+  <!-- Moved jQuery <script> tags -->
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+    $(function () {
+      $('#dialog').dialog();
+    });
+  </script>
+</html>
+```
+
+```html
+<!DOCTYPE html>
+<!-- From the jQuery UI Dialog Docs. To be used as starter code -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Change the title -->
+    <title>jQuery UI Dialog - Default functionality</title>
+    <link
+      rel="stylesheet"
+      href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"
+    />
+    <!-- Change to our own stylesheet -->
+    <link rel="stylesheet" href="/resources/demos/style.css" />
+    <!-- Add Bootstrap -->
+    <!-- Move the jQuery <script> tags to the bottom -->
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+      $(function () {
+        $('#dialog').dialog();
+      });
+    </script>
+  </head>
+  <body>
+    <!-- Change body content -->
+    <div id="dialog" title="Basic dialog">
+      <p>
+        This is the default dialog which is useful for displaying information.
+        The dialog window can be moved, resized and closed with the 'x' icon.
+      </p>
+    </div>
+  </body>
+  <!-- See index.html file for the resulting code -->
+</html>
+```
