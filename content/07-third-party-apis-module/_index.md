@@ -1,5 +1,5 @@
 ---
-title: Third Party APIs 🔒 
+title: Third Party APIs 
 weight: 7
 pre: "<b>0️7. </b>"
 ---
