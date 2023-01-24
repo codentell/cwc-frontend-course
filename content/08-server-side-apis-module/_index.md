@@ -5,7 +5,7 @@ pre: "<b>0️8. </b>"
 ---
 
 # Module 08 Server Side APIs
-{{%attachments style="green" /%}}
+
 
 #### All Module 08 Activites  📂 (Please Download Attachment Below 👇) 
 {{%attachments style="green" /%}}
@@ -15,8 +15,8 @@ pre: "<b>0️8. </b>"
 
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 01 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
-| 02 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
+| 01 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/Rv286ftD5P_E4oYgiIbRrbiFXD1l2_kkrgb7xMQ2tvkdO1NEsmZT_vFYB8N-RIqy.TfuDhhWGiXeNrtJU" >}}  |  00:55:32  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/Rv286ftD5P_E4oYgiIbRrbiFXD1l2_kkrgb7xMQ2tvkdO1NEsmZT_vFYB8N-RIqy.TfuDhhWGiXeNrtJU" >}}  |  00:55:32 ⏲️ |
+| 02 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/VXEgK-7MwrZ2ipO8mcNJza2Yc0POClZJETarAy9bN4ul5MG0xgjE27XdX7Kn6Y3i.4nvnXClKVfX-t_6a" >}}  |  00:35:45  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/VXEgK-7MwrZ2ipO8mcNJza2Yc0POClZJETarAy9bN4ul5MG0xgjE27XdX7Kn6Y3i.4nvnXClKVfX-t_6a" >}}  |  00:35:45 ⏲️ |
 | 03 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
 | 04 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
 
