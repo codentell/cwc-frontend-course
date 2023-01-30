@@ -1,5 +1,5 @@
 ---
-title: Server Side APIs 🔒 
+title: Server Side APIs 
 weight: 8
 pre: "<b>0️8. </b>"
 ---
