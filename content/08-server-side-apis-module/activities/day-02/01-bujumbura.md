@@ -1,4 +1,8 @@
-
++++
+title = "01. Bujumbura 👩‍🎓👨‍🎓"
+weight = 1
+tags = ["server side apis"] 
++++
 
 # Bujumbura
 
@@ -25,7 +29,10 @@ How to convert the Kelvin temperature provided into Celsius.
 ---
 
 
+## ✅ Solutions 
+{{%expand "Solutions Click Here" %}}
 
+### index.html
 ```html
 <!DOCTYPE html>
 <html lang="en-gb">
@@ -48,7 +55,7 @@ How to convert the Kelvin temperature provided into Celsius.
 </html>
 ```
 
-
+### script.js
 ```js
 // This is our API key
 var APIKey = "166a433c57516f51dfab1f7edaed8413";
@@ -89,3 +96,4 @@ $.ajax({
     console.log("Temperature (C): " + tempC);
   });
 ```
+{{% /expand%}}

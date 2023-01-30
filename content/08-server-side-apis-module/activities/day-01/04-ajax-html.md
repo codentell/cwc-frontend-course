@@ -22,7 +22,8 @@ You will have to build a URL of your own with the search parameters listed.
 
 ---
 
-
+## ✅ Solutions 
+{{%expand "Solutions Click Here" %}}
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -51,3 +52,4 @@ You will have to build a URL of your own with the search parameters listed.
 </html>
 
 ```
+{{% /expand%}}
