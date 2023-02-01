@@ -77,7 +77,7 @@ tags = ["server side apis"]
 
 ### script.js
 
-````js
+```js
 // Initial array of movies
  var movies = ["The Matrix", "Dune", "Mr. Right", "The Lion King"];
 
