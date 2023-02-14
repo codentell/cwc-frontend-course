@@ -1,5 +1,5 @@
 ---
-title: Project 1 Part 1 🔒 
+title: Project 1 Part 1  
 weight: 9
 pre: "<b>0️9. </b>"
 ---
