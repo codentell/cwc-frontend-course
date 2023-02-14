@@ -1,5 +1,5 @@
 ---
-title: ES6 & Node.js🔒 
+title: ES6 & Node.js
 weight: 11
 pre: "<b>11. </b>"
 ---
