@@ -1,5 +1,5 @@
 ---
-title: Object Oriented Programming 🔒 
+title: OOP 
 weight: 12
 pre: "<b>12. </b>"
 ---
