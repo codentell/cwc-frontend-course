@@ -1,5 +1,5 @@
 +++
-title = "04. 👩‍🎓👨‍🎓"
+title = "04. Rest and Spread 👩‍🎓👨‍🎓"
 weight = 4
 tags = ["es6"] 
 +++
