@@ -8,9 +8,9 @@ tags = ["third party apis"]
 ## 📺 ES6 Activities Video Speed Runs 🏃‍♀️🏃
 | Day | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 01 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
-| 02 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
-| 03 | {{< target-blank "Video 📺" "" >}}  |  00:00:00  ⏲️ |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
+| 01 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/DpWJYaQGZ7StmGcW-Ye4MOgCtb7UAbYgrl2kIofs-pKmBf40CPEEWBICYnYhrMet.-fKYcVNv4VDJMG9j" >}}  |  00:43:13  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/DpWJYaQGZ7StmGcW-Ye4MOgCtb7UAbYgrl2kIofs-pKmBf40CPEEWBICYnYhrMet.-fKYcVNv4VDJMG9j" >}}  |  00:43:13 ⏲️ |
+| 02 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/LnX0-NP4cJ322leOhj-0pNxICQeyqhWdhFAaNurlfOzITYhE9MLlOhEEmHNmNxkL.HsjMT4EF_af3xOgK" >}}  |  00:45:46  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/LnX0-NP4cJ322leOhj-0pNxICQeyqhWdhFAaNurlfOzITYhE9MLlOhEEmHNmNxkL.HsjMT4EF_af3xOgK" >}}  |  00:45:46 ⏲️ |
+| 03 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/Y5WFWF_fALe4vuCJH1Osl6FDSDUKaFW38ykuT03NmRZUFFzLNYJThVbDiGxv8GfH.cwUFmS4ZhpBqlGpL" >}}  |  00:22:04  ⏲️ |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/Y5WFWF_fALe4vuCJH1Osl6FDSDUKaFW38ykuT03NmRZUFFzLNYJThVbDiGxv8GfH.cwUFmS4ZhpBqlGpL" >}}  |  00:22:04 ⏲️ |
 | 04 | {{< target-blank "Video 📺" "" >}}    |  00:00:00  ⏲️|  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
 
 
