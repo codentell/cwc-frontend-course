@@ -129,8 +129,8 @@ Below your will find a main `Frontend Course Guidelines` and `Frontend Course Co
 | 08 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/pkVApsOwkre39W-cpn3biyC255QIH1Z1OdOanAaCYOZ20d9eFt-vruqH-ksmt5wX.GXmnixxE60sNxUXo (" >}}   |  ⏲️  |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/pkVApsOwkre39W-cpn3biyC255QIH1Z1OdOanAaCYOZ20d9eFt-vruqH-ksmt5wX.GXmnixxE60sNxUXo (" >}}   |  ⏲️ |
 | 09 |   |    |   |   |
 | 10 |   |    |   |   |
-| 11 |   |  ⏲️  |   |  ⏲️ |
-| 12 |   |  ⏲️  |   |  ⏲️ |
+| 11 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/XHLBOg3YvhLTYnvAiZ3rUxBLDqWraUv3Qsd3Wr6H_L0KQ2hubsW--jvGtx6vnzT1.WzYZAzC5uqHYxMcq" >}}  |  ⏲️  | {{< target-blank "Video 📺" " https://zoom.us/rec/share/XHLBOg3YvhLTYnvAiZ3rUxBLDqWraUv3Qsd3Wr6H_L0KQ2hubsW--jvGtx6vnzT1.WzYZAzC5uqHYxMcq" >}}  |  ⏲️ |
+| 12 | {{< target-blank "Video 📺" " https://zoom.us/rec/share/jiWVNjJCRTS6S4Pi9K6Zt-Sih3Cnfi7T0DFY2fCFHC4U2-jspixR6GAFPfLp324j.2JTLbOAfkCYcrqrg" >}}  |  ⏲️  | {{< target-blank "Video 📺" "  https://zoom.us/rec/share/jiWVNjJCRTS6S4Pi9K6Zt-Sih3Cnfi7T0DFY2fCFHC4U2-jspixR6GAFPfLp324j.2JTLbOAfkCYcrqrg" >}}  |  ⏲️ |
 | 13 |   |  ⏲️  |   |  ⏲️ |
 | 14 |   |  ⏲️  |   |  ⏲️ |
 | 15 |   |    |   |   |

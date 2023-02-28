@@ -11,4 +11,4 @@ tags = ["oop"]
 ### 📺 Module 12 Challenge Video Walkthrough 🏃‍♀️🏃
 | Module | Mac 🍎 | Duration    | Window 🖼️ | Duration |
 | ------  | ------ | ----------- |---------  | --------- |
-| 12 | {{< target-blank "Video 📺" "" >}}   |  00:00:00  ⏲️   |  {{< target-blank "Video 📺" "" >}}  |  00:00:00 ⏲️ |
+| 12 | {{< target-blank "Video 📺" "https://zoom.us/rec/share/jiWVNjJCRTS6S4Pi9K6Zt-Sih3Cnfi7T0DFY2fCFHC4U2-jspixR6GAFPfLp324j.2JTLbOAfkCYcrqrg" >}}   |  00:41:35  ⏲️   |  {{< target-blank "Video 📺" "https://zoom.us/rec/share/jiWVNjJCRTS6S4Pi9K6Zt-Sih3Cnfi7T0DFY2fCFHC4U2-jspixR6GAFPfLp324j.2JTLbOAfkCYcrqrg " >}}  |  00:41:35 ⏲️ |
