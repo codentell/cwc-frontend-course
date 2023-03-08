@@ -1,5 +1,5 @@
 +++
-title = "08. Style Prop"
+title = "08. Style Prop 👩‍🎓👨‍🎓"
 weight = 8
 tags = ["react"] 
 +++

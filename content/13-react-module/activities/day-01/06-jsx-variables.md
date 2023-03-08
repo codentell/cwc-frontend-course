@@ -1,5 +1,5 @@
 +++
-title = "06. JSXVariables"
+title = "06. JSXVariables 👩‍🎓👨‍🎓"
 weight = 6
 tags = ["react"] 
 +++

@@ -1,5 +1,5 @@
 +++
-title = "01. HelloReact"
+title = "01. HelloReact 👩‍🎓👨‍🎓"
 weight = 1
 tags = ["react"] 
 +++
